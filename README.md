@@ -1,6 +1,7 @@
 # OrarioScolastico
 Creare una Web App in cui si possa visualizzare l'orario scolastico per docente, materia e così via
 
+_________________________________________________________________________________________________________________________________________________________________________
 Dati in ingresso
 export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario dei docenti di sostegno.
 classe o docente
