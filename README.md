@@ -7,7 +7,7 @@ ________________________________________________________________________________
 export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario dei docenti di sostegno.
 classe o docente
 eventuale data 
-
+_________________________________________________________________________________________________________________________________________________________________________
 |         DATI IN USCITA         |
 |--------------------------------|
 visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato
