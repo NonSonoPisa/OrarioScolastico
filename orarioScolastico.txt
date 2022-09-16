@@ -16,9 +16,10 @@ Tabella : Interface
 
 
 Ora
-
+	- Materia
+	- Docente : Array()
 
 Orario
-
+	- Ora : Array()
 
 Materia
