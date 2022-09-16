@@ -2,16 +2,22 @@
 Creare una Web App in cui si possa visualizzare l'orario scolastico per docente, materia e così via
 
 _________________________________________________________________________________________________________________________________________________________________________
-|        DATI IN INGRESSO        |
-|--------------------------------|
-export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario per sostegno. 
-classe o docente
-eventuale data 
+
+-**Dati in Ingresso**
+
+    export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario per i docenti di sostegno
+    
+    classe o docente
+    
+    eventuale data
+    
 _________________________________________________________________________________________________________________________________________________________________________
-|         DATI IN USCITA         |
-|--------------------------------|
-visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato              
-(*) produzione di un file pdf con l’orario
+
+-**Dati in Uscita**
+
+    visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato
+    
+    (*) produzione di un file pdf con l’orario.
 
 _Procedure:
 caricamento orari (forse in automatico) dal formato dei rispettivi export
