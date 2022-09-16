@@ -8,7 +8,8 @@ export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’ora
 classe o docente
 eventuale data 
 
-Dati in uscita:
+|         DATI IN USCITA         |
+|--------------------------------|
 visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato
 (*) produzione di un file pdf con l’orario
 
