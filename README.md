@@ -19,6 +19,8 @@ ________________________________________________________________________________
     
     (*) produzione di un file pdf con l’orario.
 
+_________________________________________________________________________________________________________________________________________________________________________
+
 _Procedure:
 caricamento orari (forse in automatico) dal formato dei rispettivi export
 visualizzazione orario settimanale di una classe
