@@ -13,11 +13,11 @@ ________________________________________________________________________________
 visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato
 (*) produzione di un file pdf con l’orario
 
-Procedure:
+_Procedure:
 caricamento orari (forse in automatico) dal formato dei rispettivi export
 visualizzazione orario settimanale di una classe
 visualizzazione orario settimanale di un docente
 visualizzazione orario giornaliero di una classe
 visualizzazione orario giornaliero di un docente
 (*) export dell’orario settimanale del docente o della classe in formato JSON
-uscita
+uscita_
