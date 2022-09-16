@@ -4,7 +4,7 @@ Creare una Web App in cui si possa visualizzare l'orario scolastico per docente,
 _________________________________________________________________________________________________________________________________________________________________________
 |        DATI IN INGRESSO        |
 |--------------------------------|
-export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario dei docenti di sostegno.
+export dell’orario scolastico (EDT); potrebbe essere disponibile anche l’orario per sostegno. 
 classe o docente
 eventuale data 
 _________________________________________________________________________________________________________________________________________________________________________
