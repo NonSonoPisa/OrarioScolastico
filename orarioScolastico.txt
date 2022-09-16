@@ -1,0 +1,24 @@
+Classe : Class
+	- Interface tabella
+	- nome : String
+
+
+Docente : Class
+	- Interface tabella
+	Nome e Password : DataBase
+
+	+ cambiaOrario()
+
+
+Tabella : Interface
+	- orariGioranlieri : Array()
+	- orariSettimanali : Array()
+
+
+Ora
+
+
+Orario
+
+
+Materia
