@@ -10,7 +10,7 @@ eventuale data
 _________________________________________________________________________________________________________________________________________________________________________
 |         DATI IN USCITA         |
 |--------------------------------|
-visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato
+visualizzazione dell’orario settimanale o del giorno per la classe o il docente selezionato              
 (*) produzione di un file pdf con l’orario
 
 _Procedure:
