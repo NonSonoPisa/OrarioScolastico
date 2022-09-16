@@ -1,4 +1,5 @@
 Classe : Class
+	- Orario
 	- Interface tabella
 	- nome : String
 
@@ -6,6 +7,7 @@ Classe : Class
 Docente : Class
 	- Interface tabella
 	Nome e Password : DataBase
+	- Materia : Array()
 
 	+ cambiaOrario()
 
@@ -15,11 +17,11 @@ Tabella : Interface
 	- orariSettimanali : Array()
 
 
-Ora
+Ora : Class
 	- Materia
 	- Docente : Array()
 
-Orario
+Orario : Class
 	- Ora : Array()
 
-Materia
+Materia : Class (?) 
