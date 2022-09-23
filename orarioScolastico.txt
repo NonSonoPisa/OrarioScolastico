@@ -12,15 +12,13 @@ Docente : Class
 	- Cognome : String
 
 	+ cambiaOrario()
-
+	- Interface tabella
 
 
 Classe : Class
 	- Orario
 	- Interface tabella
 	- nome : String
-
-
 
 
 Tabella : Interface
