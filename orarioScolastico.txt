@@ -1,20 +1,33 @@
+Alla prima lettura bisognera salvare ogni professore con ogni sue caratteristiche (nome,cognome, classi sue) e ore 
+10h al giorno per 6 giorni.
+- Scuola anche sabato (?)
+Array di professori 
+
+Design pattern strategy (?)
+Orario : Class 
+
+Docente : Class
+	- Materia : Array()
+	- 
+
+	+ cambiaOrario()
+
+
+
 Classe : Class
 	- Orario
 	- Interface tabella
 	- nome : String
 
 
-Docente : Class
-	- Interface tabella
-	Nome e Password : DataBase
-	- Materia : Array()
-
-	+ cambiaOrario()
 
 
 Tabella : Interface
 	- orariGioranlieri : Array()
 	- orariSettimanali : Array()
+
+
+Ogni ora potrà avere un docente o più e ogni ora avrà una materia
 
 
 Ora : Class
