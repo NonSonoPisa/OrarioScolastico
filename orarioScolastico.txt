@@ -1,3 +1,10 @@
+Appunti:
+orario lista di moduli?
+
+in docente c'è un get orario - getOrariodocente -getOrarioClasse
+
+costruisco l'orario in quel momento per poi stamparlo
+
 Alla prima lettura bisognera salvare ogni professore con ogni sue caratteristiche (nome,cognome, classi sue) e ore 
 10h al giorno per 6 giorni.
 - Scuola anche sabato (?)
